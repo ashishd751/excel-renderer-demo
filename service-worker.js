@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/excel-renderer-demo/precache-manifest.406b6232ac478071bc7e94e1326a7d6b.js"
+  "/excel-renderer-demo/precache-manifest.e2f044c3cee77d965ea27bdaad553b23.js"
 );
 
 workbox.clientsClaim();
